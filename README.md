@@ -1,5 +1,5 @@
-### Hi there, Hallo, Привет,Bonjour, Ciao. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elyan Ekenimoh!👋
-
+### Hi there,Hallo,Привет,Bonjour, Ciao. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elyan Ekenimoh!
+![Twitter Follow](https://img.shields.io/twitter/follow/ely_codes?label=people%20following%20me%20on%20twitter&style=social)
 <!--
 **Geoelycom/Geoelycom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
