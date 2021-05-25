@@ -1,5 +1,6 @@
 ### Hi there,Hallo,Привет,Bonjour, Ciao. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elyan Ekenimoh!
-![Twitter Follow](https://img.shields.io/twitter/follow/ely_codes?label=people%20following%20me%20on%20twitter&style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEly_codes)
+...
+![Twitter Follow](https://img.shields.io/twitter/follow/Ely_codes?style=social) ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FEly_codes). ![GitHub forks](https://img.shields.io/github/forks/Geoelycom/boilerplate-express?style=social)
 <!--
 **Geoelycom/Geoelycom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
