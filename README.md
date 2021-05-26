@@ -17,6 +17,14 @@ I won’t say I’m self a taught developer because everything I know the commun
 
 <hr>
 
+![Geoelycom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geoelycom&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoelycom&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<hr>
+
 <!--
 **Geoelycom/Geoelycom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
