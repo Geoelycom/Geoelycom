@@ -6,9 +6,9 @@
 
 I’m a full-Stack web developer. I have always loved the fact that I could solve complex problems, from simply playing chess or unravelling a challenging scrabble, so when I knew I could do more writing programs to solve more complex problems, I fell in love with it. 
 
-I write in javascript and its technologies which I have listed in the toolbox. Like most people, javascript is full of inconsistencies,a bug,but to me, this is a feature and as I keep diving in, it has given me the tools to solve any problems , from the traditional frontend languages with React to backend with Node and Express. My journey as an engineer is quite familiar to most people in the tech space right now, no traditional CS degree, but a degree I do have . 
+I write in javascript and its technologies which I have listed in the toolbox. Like most people, javascript is full of inconsistencies, a bug, but to me, this is a feature and as I keep diving in, it has given me the tools to solve any problems, from the traditional Frontend languages with React to Backend with Node and Express. My journey as an engineer is quite familiar to most people in the tech space right now, no traditional CS degree, but a degree I do have. 
 
-I won’t say I’m a self taught developer because everything I know the community has instilled in me, from the amazing instructors in Udemy to those at Freecodecamp, to the blog writers and the content creators in youtube, I have learned from them all.. 
+I won’t say I’m a self taught developer because everything I know the community has instilled in me, from the amazing instructors in Udemy to those at Freecodecamp, to the blog writers and the content creators in youtube, I have learned from them all.
 <hr>
 
 💼  Toolbox
