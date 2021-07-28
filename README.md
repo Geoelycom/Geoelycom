@@ -32,7 +32,6 @@ I won’t say I’m a self taught developer because everything I know the commun
 - Twitter: [@Ely_codes](https://twitter.com/Ely_codes)
 - LinkedIn: [Ekenimoh Elyan](https://www.linkedin.com/in/ekenimoh-elyan-52b616109)
 
-- 😄 Pronouns: He/Him.
 <hr>
 
 <!--
