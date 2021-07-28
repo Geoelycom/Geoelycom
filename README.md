@@ -22,14 +22,16 @@ I won’t say I’m a self taught developer because everything I know the commun
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoelycom&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-- 🔭 I’m currently working learning and Improving my skills with folks all over the world through remote pair programming.
+
+- 🔭 I’m currently learning and Improving my skills with folks all over the world through remote pair programming.
 
 - ⚡ Fun fact: I would leave everything to watch a football game![image](https://user-images.githubusercontent.com/54026531/127358301-fd54b928-0d2d-4ebf-a092-915270ff6b7d.png)
-
--🕺🕺 I'm looking to collaborate abnd work open source projects.
-
+- 🕺🕺 looking to collaborate and work on open source projects.
 - 💬 Ask me about web accessibility and how you can break into tech, courses to take.
-- 📫 How to reach me: You can reach me on ![Twitter Follow](https://img.shields.io/twitter/follow/Ely_codes?style=social)
+- 📫 How to reach me: You can reach me on - GitHub:[@Geoelycom](https://github.com/Geoelycom)
+- Twitter: [@Ely_codes](https://twitter.com/Ely_codes)
+- LinkedIn: [Ekenimoh Elyan](https://www.linkedin.com/in/ekenimoh-elyan-52b616109)
+
 - 😄 Pronouns: He/Him.
 <hr>
 
