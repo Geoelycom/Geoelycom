@@ -6,9 +6,9 @@
 
 I’m a full-Stack web developer. I have always loved the fact that I could solve complex problems, from simply playing chess or unravelling a challenging scrabble, so when I knew I could do more writing programs to solve more complex problems, I fell in love with it. 
 
-I write in javascript and its technologies which I have Listed in the toolbox. Like most people, javascript is full of inconsistencies, a  bug , but to me, this is a feature and as I keep diving in, it has given me the tools to solve any problems , from the traditional frontend languages with React to backend with node and express. My Journey as an engineer is quite familiar to most people in the tech space right now, no traditional CS degree, but a degree I do have . 
+I write in javascript and its technologies which I have listed in the toolbox. Like most people, javascript is full of inconsistencies,a bug,but to me, this is a feature and as I keep diving in, it has given me the tools to solve any problems , from the traditional frontend languages with React to backend with Node and Express. My journey as an engineer is quite familiar to most people in the tech space right now, no traditional CS degree, but a degree I do have . 
 
-I won’t say I’m self a taught developer because everything I know the community has instilled in me, from the amazing instructors in Udemy to those at Freecodecamp, to the blog writers and the content creators in youtube, I have learnt from them all.. 
+I won’t say I’m a self taught developer because everything I know the community has instilled in me, from the amazing instructors in Udemy to those at Freecodecamp, to the blog writers and the content creators in youtube, I have learned from them all.. 
 <hr>
 
 💼  Toolbox
@@ -21,8 +21,16 @@ I won’t say I’m self a taught developer because everything I know the commun
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geoelycom&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<hr>
+- 🔭 I’m currently working learning and Improving my skills with folks all over the world through remote pair programming.
 
+- ⚡ Fun fact: I would leave everything to watch a football game![image](https://user-images.githubusercontent.com/54026531/127358301-fd54b928-0d2d-4ebf-a092-915270ff6b7d.png)
 
+-🕺🕺 I'm looking to collaborate abnd work open source projects.
+
+- 💬 Ask me about web accessibility and how you can break into tech, courses to take.
+- 📫 How to reach me: You can reach me on ![Twitter Follow](https://img.shields.io/twitter/follow/Ely_codes?style=social)
+- 😄 Pronouns: He/Him.
 <hr>
 
 <!--
